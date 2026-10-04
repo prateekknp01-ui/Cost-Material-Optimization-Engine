@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+scikit-learn
+joblib
+opencv-python-headless
+matplotlib
+openpyxl
+streamlit
+pytest
